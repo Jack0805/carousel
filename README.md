@@ -97,6 +97,7 @@ Since there are many of images to load, With image lazy loading, images are load
 5. avoid or remove side effects that causes unnecessary re-renders to children components by using useCallback and useMemo hooks.
 6. Restructure the path of each page, utils, constants and components, if the app is keep growing, it needs a more clearly structure to maintain and develop.
 7. Make '/program' page more responsive on different size of screens.
+8. enable ESlint to check coding before pushing to git or deploy
 
 ## What would you do differently if you were allocated more time?
 
