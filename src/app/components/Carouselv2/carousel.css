@@ -1,0 +1,38 @@
+.carouselv2-container {
+    overflow: hidden;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.carouselv2-track {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap:10px;
+    transition: transform 1s ease;
+    max-width: 100vw
+}
+
+.carouselv2-item {
+    min-width: 260px;
+    height: 390px;
+    background: #606060;
+}
+
+.carouselv2-item-placehodler{
+    min-width: 130px;
+    background: black;
+}
+
+.c-img {
+    width: 260px;
+    opacity: 0;
+    transition: opacity 0.4s ease-in-out;
+}
+
+.loaded{
+    opacity: 1;
+}

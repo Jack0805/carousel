@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Movies Component should render correctly 1`] = `
+<div
+  class="container"
+>
+  <div
+    class="carousel"
+  >
+    <div
+      class="image-container-with-border"
+    >
+      <div
+        style="outline: none;"
+        tabindex="0"
+      >
+        <a
+          href="/program?mid=65737&selectedIndex=0&page=&from=home"
+        >
+          <img
+            class="item-image"
+            src="https://streamcoimg-a.akamaihd.net/000/657/37/65737-PosterArt-15bee119eb92a5f33670e6bd3f1af967.jpg?resize=512px:*&quality=75&preferredFormat=image/jpeg"
+          />
+        </a>
+      </div>
+    </div>
+    <div
+      class="image-container-without-border"
+    >
+      <div
+        style="outline: none;"
+        tabindex="0"
+      >
+        <a
+          href="/program?mid=67517&selectedIndex=1&page=&from=home"
+        >
+          <img
+            class="item-image"
+            src="https://streamcoimg-a.akamaihd.net/000/675/17/67517-PosterArt-d740bf2159cf9c3eb1b22db4043076ff.jpg?resize=512px:*&quality=75&preferredFormat=image/jpeg"
+          />
+        </a>
+      </div>
+    </div>
+    <div
+      class="image-container-without-border"
+    >
+      <div
+        style="outline: none;"
+        tabindex="0"
+      >
+        <a
+          href="/program?mid=56197&selectedIndex=2&page=&from=home"
+        >
+          <img
+            class="item-image"
+            src="https://streamcoimg-a.akamaihd.net/000/561/97/56197-PosterArt-469c02a0132ce2629859f70303083c85.jpg?resize=512px:*&quality=75&preferredFormat=image/jpeg"
+          />
+        </a>
+      </div>
+    </div>
+    <div
+      class="image-container-without-border"
+    >
+      <div
+        style="outline: none;"
+        tabindex="0"
+      >
+        <a
+          href="/program?mid=26702&selectedIndex=3&page=&from=home"
+        >
+          <img
+            class="item-image"
+            src="https://streamcoimg-a.akamaihd.net/000/267/02/26702-PosterArt-fa4764f2e5af823683130cec70f227ae.jpg?resize=512px:*&quality=75&preferredFormat=image/jpeg"
+          />
+        </a>
+      </div>
+    </div>
+    <div
+      class="image-container-without-border"
+    >
+      <div
+        style="outline: none;"
+        tabindex="0"
+      >
+        <a
+          href="/program?mid=3019990&selectedIndex=4&page=&from=home"
+        >
+          <img
+            class="item-image"
+            src="https://streamcoimg-a.akamaihd.net/000/301/9990/3019990-PosterArt-5984e294f596ed0ad0c006162770e080.jpg?resize=512px:*&quality=75&preferredFormat=image/jpeg"
+          />
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;

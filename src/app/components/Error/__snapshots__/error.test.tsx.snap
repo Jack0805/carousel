@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error Component should render correctly 1`] = `
+<div
+  class="error-container"
+>
+  <p
+    class="bold-header"
+  >
+    Something is wrong !!
+  </p>
+</div>
+`;

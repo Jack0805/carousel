@@ -1,0 +1,15 @@
+.container {
+    width: 100%;
+    padding:20px;
+}
+
+.carousel {
+    display: flex;
+    justify-content: center;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+.item-image {
+    width: 260px;
+}

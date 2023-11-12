@@ -1,0 +1,5 @@
+.error-container {
+    display: flex;
+    width: 83%;
+    justify-content: flex-start;
+}
